@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(53, 53, 162);
+}
+.container{
+    display: flex;
+    color: white;
+}
+.input{
+    text-align: left;
+    margin: 20px;
+}
+.output{
+    text-align: left;
+    margin: 20px;
+}
+.input-text{
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: rgb(53, 53, 162);
+    height: 500px;
+    width: 700px;
+    color: white;
+    margin-top: 10px;
+}
+.output-text{
+    padding: 20px;
+    box-shadow: 0px 0px 20px 0px black;
+    background-color: rgb(47, 43, 43);
+    border-radius: 10px;
+    height: 500px;
+    width: 500px;
+    margin-top: 10px;
+}
+h3{
+    margin: 0;
+}
